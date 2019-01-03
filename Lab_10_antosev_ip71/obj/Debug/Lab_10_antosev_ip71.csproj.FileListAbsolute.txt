@@ -1,0 +1,7 @@
+C:\Users\sasha\source\repos\Lab_10_antosev_ip71\Lab_10_antosev_ip71\bin\Debug\Lab_10_antosev_ip71.exe.config
+C:\Users\sasha\source\repos\Lab_10_antosev_ip71\Lab_10_antosev_ip71\bin\Debug\Lab_10_antosev_ip71.exe
+C:\Users\sasha\source\repos\Lab_10_antosev_ip71\Lab_10_antosev_ip71\bin\Debug\Lab_10_antosev_ip71.pdb
+C:\Users\sasha\source\repos\Lab_10_antosev_ip71\Lab_10_antosev_ip71\obj\Debug\Lab_10_antosev_ip71.csprojAssemblyReference.cache
+C:\Users\sasha\source\repos\Lab_10_antosev_ip71\Lab_10_antosev_ip71\obj\Debug\Lab_10_antosev_ip71.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Lab_10_antosev_ip71\Lab_10_antosev_ip71\obj\Debug\Lab_10_antosev_ip71.exe
+C:\Users\sasha\source\repos\Lab_10_antosev_ip71\Lab_10_antosev_ip71\obj\Debug\Lab_10_antosev_ip71.pdb
